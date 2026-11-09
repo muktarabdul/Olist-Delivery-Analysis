@@ -59,4 +59,4 @@ Download the CSV files, load each into a SQLite table (dropping the `olist_` pre
 
 SQL (SQLite), including joins, CTEs, CASE WHEN and window functions. Python for loading data and drawing charts.
 
-Built with AI assistance as part of learning SQL.
+
